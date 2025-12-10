@@ -26,11 +26,11 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on **Project Management App** <br/>
-  🌱 I’m currently learning **Vuejs, Golang, Gin** <br/>
-  💬 Ask me about **Vue** <br/>
-  📫 How to reach me **jordrichh7@gmail.com** <br/>
-  ⚡ Fun fact **Call me RD**
+  <code>🔭 I’m currently working on Project Management App</code> <br/>
+  <code>🌱 I’m currently learning Vuejs, Golang, Gin</code> <br/>
+  <code>💬 Ask me about Vue</code> <br/>
+  <code>📫 How to reach me jordrichh7@gmail.com</code> <br/>
+  <code>⚡ Fun fact Call me RD</code>
 </div>
 
 <br/>
