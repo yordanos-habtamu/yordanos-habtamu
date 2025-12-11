@@ -26,11 +26,15 @@
 <br/>
 
 <div align="center">
-  <code>🔭 I’m currently working on Project Management App</code> <br/>
-  <code>🌱 I’m currently learning Vuejs, Golang, Gin</code> <br/>
-  <code>💬 Ask me about Vue</code> <br/>
-  <code>📫 How to reach me jordrichh7@gmail.com</code> <br/>
-  <code>⚡ Fun fact Call me RD</code>
+  <blockquote>
+    <br/>
+    🔭 <b>Building</b>: Scalable Project Management Applications <br/>
+    🌱 <b>Exploring</b>: Advanced Golang patterns & 3D Web with Three.js <br/>
+    💬 <b>Ask me about</b>: Vue.js, React, & Clean Architecture <br/>
+    📫 <b>Contact</b>: <a href="mailto:jordrichh7@gmail.com">jordrichh7@gmail.com</a> <br/>
+    ⚡ <b>Motto</b>: Code with passion, build with purpose. <br/>
+    <br/>
+  </blockquote>
 </div>
 
 <br/>
@@ -38,7 +42,7 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,vue,js,ts,html,css,tailwind,dart,flutter,firebase,mysql,postgres,mongo,docker,git,linux,bash,nginx,express,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=go,vue,react,threejs,js,ts,html,css,tailwind,dart,flutter,firebase,mysql,postgres,mongo,docker,git,linux,bash,nginx,express,nodejs,java" />
 </div>
 
 <br/>
