@@ -25,17 +25,21 @@
 
 <br/>
 
-<div align="center">
-  <blockquote>
-    <br/>
-    🔭 <b>Building</b>: Scalable Project Management Applications <br/>
-    🌱 <b>Exploring</b>: Advanced Golang patterns & 3D Web with Three.js <br/>
-    💬 <b>Ask me about</b>: Vue.js, React, & Clean Architecture <br/>
-    📫 <b>Contact</b>: <a href="mailto:jordrichh7@gmail.com">jordrichh7@gmail.com</a> <br/>
-    ⚡ <b>Motto</b>: Code with passion, build with purpose. <br/>
-    <br/>
-  </blockquote>
-</div>
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  <img align="right" src="https://raw.githubusercontent.com/kaizenpic/kaizenpic/master/programming.gif" width="280" alt="Coding Gif" />
+  
+  I'm a passionate <b>Full Stack Developer</b> from Ethiopia. I love turning complex problems into simple, beautiful, and intuitive designs.
+  <br/><br/>
+  
+  🔭 <b>Building</b>: Scalable Project Management Applications <br/>
+  🌱 <b>Exploring</b>: Advanced Golang patterns & 3D Web with Three.js <br/>
+  💬 <b>Ask me about</b>: Vue.js, React, & Clean Architecture <br/>
+  📫 <b>Contact</b>: <a href="mailto:jordrichh7@gmail.com">jordrichh7@gmail.com</a> <br/>
+  ⚡ <b>Motto</b>: Code with passion, build with purpose.
+</p>
+<br clear="all" />
 
 <br/>
 
