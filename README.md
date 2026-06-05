@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,0E7C7B&height=200&section=header&text=Yordanos%20Habtamu&fontSize=48&fontColor=F4A261&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%E2%80%94%20Go%20%26%20Laravel%20%E2%80%94%20Addis%20Ababa%2C%20Ethiopia&descAlignY=60&descColor=a0aab4&animation=fadeIn&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1A3A5C,0E7C7B&height=200&section=header&text=Yordanos%20Habtamu&fontSize=48&fontColor=F4A261&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%C2%B7%20Go%20and%20Laravel%20%C2%B7%20Addis%20Ababa%2C%20Ethiopia&descAlignY=60&descColor=ffffff&animation=fadeIn&descSize=15" />
 </div>
 
 <br/>
@@ -157,15 +157,15 @@ World-class LMS — WebRTC classrooms, AI tutoring, adaptive learning paths, and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yordanos-habtamu&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F4A261&icon_color=0E7C7B&text_color=a0aab4&ring_color=0E7C7B" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yordanos-habtamu&show_icons=true&count_private=true&hide_border=true&bg_color=161b22&title_color=F4A261&icon_color=0E7C7B&text_color=8b949e&ring_color=0E7C7B" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanos-habtamu&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4A261&text_color=a0aab4" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanos-habtamu&layout=compact&hide_border=true&bg_color=161b22&title_color=F4A261&text_color=8b949e" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yordanos-habtamu&hide_border=true&background=0d1117&ring=0E7C7B&fire=F4A261&currStreakLabel=F4A261&sideLabels=a0aab4&dates=a0aab4&stroke=21262d&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=yordanos-habtamu&hide_border=true&background=161b22&ring=0E7C7B&fire=F4A261&currStreakLabel=F4A261&sideLabels=8b949e&dates=8b949e&stroke=30363d&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -215,5 +215,5 @@ Based in Addis Ababa — available worldwide remote.
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0E7C7B,0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0E7C7B,1A3A5C&height=120&section=footer" />
 </div>
