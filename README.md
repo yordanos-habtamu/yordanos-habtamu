@@ -1,74 +1,219 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3578E5&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yordanos+Habtamu;Full+Stack+Developer;From+Ethiopia" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://twitter.com/yordanos_rich" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/yordanos-habtamu" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/28776907" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-  </a>
-  <a href="https://leetcode.com/yordanos_habtamu" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/crd.creed47" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@jordrichh7" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-<br/>
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-  <img align="right" src="https://raw.githubusercontent.com/kaizenpic/kaizenpic/master/programming.gif" width="280" alt="Coding Gif" />
-  
-  I'm a passionate <b>Full Stack Developer</b> from Ethiopia. I love turning complex problems into simple, beautiful, and intuitive designs.
-  <br/><br/>
-  
-  🔭 <b>Building</b>: Scalable Project Management Applications <br/>
-  🌱 <b>Exploring</b>: Advanced Golang patterns & 3D Web with Three.js <br/>
-  💬 <b>Ask me about</b>: Vue.js, React, & Clean Architecture <br/>
-  📫 <b>Contact</b>: <a href="mailto:jordrichh7@gmail.com">jordrichh7@gmail.com</a> <br/>
-  ⚡ <b>Motto</b>: Code with passion, build with purpose.
-</p>
-<br clear="all" />
-
-<br/>
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,vue,react,threejs,js,ts,html,css,tailwind,dart,flutter,firebase,mysql,postgres,mongo,docker,git,linux,bash,nginx,express,nodejs,java" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,0E7C7B&height=200&section=header&text=Yordanos%20Habtamu&fontSize=48&fontColor=F4A261&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%E2%80%94%20Go%20%26%20Laravel%20%E2%80%94%20Addis%20Ababa%2C%20Ethiopia&descAlignY=60&descColor=a0aab4&animation=fadeIn&descSize=15" />
 </div>
 
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=yordanos-habtamu&show_icons=true&locale=en&theme=tokyonight" alt="yordanos-habtamu" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanos-habtamu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yordanos-habtamu" />
-      </td>
-    </tr>
-  </table>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yordanos-habtamu&theme=tokyonight" alt="yordanos-habtamu" />
+
+[![Portfolio](https://img.shields.io/badge/yordanosdev.vercel.app-0E7C7B?style=flat-square&logo=vercel&logoColor=white&label=Portfolio)](https://yordanosdev.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/yordanos--habtamu-0a66c2?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn)](https://linkedin.com/in/yordanos-habtamu)&nbsp;
+[![Medium](https://img.shields.io/badge/%40jordrichh-F4A261?style=flat-square&logo=medium&logoColor=white&label=Writing)](https://jordrichh.medium.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/%40yordanos__rich-1d9bf0?style=flat-square&logo=x&logoColor=white&label=X)](https://twitter.com/yordanos_rich)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-available-0E7C7B?style=flat-square&logoColor=white)](https://yordanosdev.vercel.app/#contact)
+
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```go
+package main
+
+type Engineer struct {
+	Name     string
+	Role     string
+	Location string
+	Stack    []string
+	Building string
+	Status   string
+}
+
+func main() {
+	me := Engineer{
+		Name:     "Yordanos Habtamu",
+		Role:     "Backend Engineer",
+		Location: "Addis Ababa, Ethiopia 🇪🇹  ·  Open to remote",
+		Stack:    []string{"Go", "Laravel 11", "Vue.js 3", "PostgreSQL", "Docker"},
+		Building: "LearnFlow — a world-class LMS platform",
+		Status:   "Available for backend roles & contract work",
+	}
+	_ = me
+}
+```
+
+> I build systems that **actually work in production.** Golang and Laravel engineer with hands-on experience shipping payment integrations, ERP features, and microservice APIs to real users.
+
+<br/>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892be?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=111)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=111)
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0E7C7B?style=for-the-badge&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[EcomGo ↗](https://github.com/yordanos-habtamu/EcomGo)**
+
+Full-stack e-commerce backend with microservice architecture — catalog, orders, auth. PostgreSQL, REST API, Dockerised.
+
+`Go` `Gorilla Mux` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**[SMARTHOMEZ ↗](https://github.com/yordanos-habtamu/SMARTHOMEZ)**
+
+Real estate brokerage platform. Property listings, broker profiles, referral tracking, commission workflows.
+
+`Go` `PostgreSQL` `Vue.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Tele-Laravel ↗](https://github.com/yordanos-habtamu/Tele-Laravel)**
+
+Minimal Laravel package for Telebirr payment integration — extracted from production ERP work into a standalone library.
+
+`Laravel` `PHP` `Telebirr API`
+
+</td>
+<td width="50%" valign="top">
+
+**[AI-Task-Assigner ↗](https://github.com/yordanos-habtamu/AI-Task-Assigner)**
+
+Assigns GitHub issues to developers based on their skill profile using ML scoring.
+
+`Python` `GitHub API` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Balej ↗](https://github.com/yordanos-habtamu/Balej)**
+
+Fullstack job matching and search platform with intelligent filtering.
+
+`Go` `Nuxt.js`
+
+</td>
+<td width="50%" valign="top">
+
+**LearnFlow** &nbsp;`in progress`
+
+World-class LMS — WebRTC classrooms, AI tutoring, adaptive learning paths, and real-time collab. Built on Laravel 11 + Vue.js 3.
+
+`Laravel 11` `Vue.js 3` `Mediasoup SFU` `WebRTC`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yordanos-habtamu&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F4A261&icon_color=0E7C7B&text_color=a0aab4&ring_color=0E7C7B" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanos-habtamu&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4A261&text_color=a0aab4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yordanos-habtamu&hide_border=true&background=0d1117&ring=0E7C7B&fire=F4A261&currStreakLabel=F4A261&sideLabels=a0aab4&dates=a0aab4&stroke=21262d&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<br/>
+
+---
+
+## ✍️ Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Three Musketeers: Routers, Hubs, Switches and the Friend Bridge](https://jordrichh.medium.com/three-musketeers-routers-hubs-switches-and-the-friend-bridge-fcfb6c0b32ab) — *Oct 03, 2025*
+- [Context Switching: Why Your Brain Can't Multitask Like a CPU](https://jordrichh.medium.com/context-switching-why-your-brain-cant-multitask-like-a-cpu-ba935c0fb15d) — *Oct 02, 2025*
+- [Demystifying Networking with Cisco Packet Tracer](https://jordrichh.medium.com/demystifying-networking-with-cisco-packet-tracer-4ae6e07f6b2e) — *Oct 01, 2025*
+- [Simplifying API Requests in Vue.js with Axios: A Beginner's Tutorial](https://jordrichh.medium.com/simplifying-api-requests-in-vue-js-with-axios-a-beginners-tutorial-2e70f8be9220) — *Dec 15, 2024*
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+---
+
+## 🏅 Highlights
+
+<div align="center">
+
+| 🥈 2nd place · JUIIC Hackathon | 🚢 4+ projects shipped | 📝 4 published articles | ⏱️ 1yr+ production experience |
+|:---:|:---:|:---:|:---:|
+| Led a 3-person team, beat 20+ teams | Real users. Real systems. | Engineering & CS concepts | Live ERP, active users |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Open to backend engineering roles, contract work, and interesting problems.**<br/>
+Based in Addis Ababa — available worldwide remote.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0E7C7B?style=for-the-badge&logo=vercel&logoColor=white)](https://yordanosdev.vercel.app)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-F4A261?style=for-the-badge&logo=gmail&logoColor=white)](https://yordanosdev.vercel.app/#contact)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/yordanos7">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0E7C7B,0d1117&height=100&section=footer" />
 </div>
